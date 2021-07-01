@@ -2,7 +2,7 @@ Python3 Interpreter required.
 This program should be run from command line.
 
 -k option:
-make a set of RSA keys
+create a set of RSA keys
 For example, 
 
 	python Rabin-Miller.py -k key1.txt
