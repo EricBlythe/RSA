@@ -20,6 +20,7 @@ For example,
 uses key1.txt to encrypt 1.txt. The result will be saved in 1_encrypted.txt.
 Note: the third number in key1.txt is the private key. For practical use, you should delete the third number in key1.txt and then publish it and let others use it to encrypt messages and send to you.
 
+
 -d option:
 decrypt
 For example, 
